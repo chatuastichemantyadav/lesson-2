@@ -1,0 +1,9 @@
+# learn VVVVVVVVVAAAAAAAAAAAAARRRRRRRRRRRIIIIIIIIIIIIAAAAAAAAAAAAAAABBBBBBBBBBBBLLLLLLLLLLLEEEEEESSSSSSSSSSSSSSSS
+X= 5
+print(X)
+Y= "Hemant"
+print(Y)
+
+#user input
+name=input("Enter your name: ")
+print("Your name is "  +  name)
