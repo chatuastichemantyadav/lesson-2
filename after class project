@@ -1,0 +1,16 @@
+# storing birthday dates
+
+yourbirthdaydates=input("your birthday is in:")
+print("so your birhday is in " +yourbirthdaydates)
+
+momsbirthdaydates=input("your mom's birthday is in:")
+print("so your dad's birhday is in "+momsbirthdaydates)
+
+dadsbirthdaydates=input("your dad's birthday is in:")
+print("so your mom's birhday is in " +dadsbirthdaydates)
+
+sistersbirthdaydates=input("your sister's birthday is in:")
+print("so your sisters birhday is in " +sistersbirthdaydates)
+
+brothersbirthdaydates=input("your brother's birthday is in:")
+print("so your brother's birhday is in " +brothersbirthdaydates)
